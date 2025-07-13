@@ -1,0 +1,10 @@
+{
+    "command": "\"C:/Program Files (x86)/ePan - Pedido Eletr\u00f4nico/ePan - Pedido Eletr\u00f4nico.exe\"",
+    "workdir": "C:\\Program Files (x86)\\ePan - Pedido Eletr\u00f4nico",
+    "keywords": "ERROR, WARN, GRAVE, Falha, Exception, Timeout, not found, dir not exists, N\\u00C3O DEFINIDO, timezone",
+    "ia_enabled": true,
+    "ollama_model": "phi-3-local:latest",
+    "log_encoding": "latin-1",
+    "max_log_lines": 3000,
+    "capture_evidence": true
+}
