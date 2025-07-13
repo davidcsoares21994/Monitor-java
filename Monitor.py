@@ -1185,3 +1185,4 @@ if __name__ == "__main__":
 
     app = LogMonitorAppModern()
     app.mainloop()
+    #teste
